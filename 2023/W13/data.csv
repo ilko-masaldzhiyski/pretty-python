@@ -1,0 +1,183 @@
+﻿Year,Number,Ticker,Company
+2022,"164,000",AAPL,Apple Inc.
+2021,"154,000",AAPL,Apple Inc.
+2020,"147,000",AAPL,Apple Inc.
+2019,"137,000",AAPL,Apple Inc.
+2018,"132,000",AAPL,Apple Inc.
+2017,"123,000",AAPL,Apple Inc.
+2016,"116,000",AAPL,Apple Inc.
+2015,"110,000",AAPL,Apple Inc.
+2014,"97,000",AAPL,Apple Inc.
+2013,"84,400",AAPL,Apple Inc.
+2012,"76,100",AAPL,Apple Inc.
+2011,"63,300",AAPL,Apple Inc.
+2010,"49,400",AAPL,Apple Inc.
+2009,"36,800",AAPL,Apple Inc.
+2022,"221,000",MSFT,Microsoft Corporation
+2021,"181,000",MSFT,Microsoft Corporation
+2020,"163,000",MSFT,Microsoft Corporation
+2019,"144,000",MSFT,Microsoft Corporation
+2018,"131,000",MSFT,Microsoft Corporation
+2017,"124,000",MSFT,Microsoft Corporation
+2016,"114,000",MSFT,Microsoft Corporation
+2015,"118,000",MSFT,Microsoft Corporation
+2014,"128,000",MSFT,Microsoft Corporation
+2013,"99,000",MSFT,Microsoft Corporation
+2012,"94,000",MSFT,Microsoft Corporation
+2011,"90,000",MSFT,Microsoft Corporation
+2010,"89,000",MSFT,Microsoft Corporation
+2009,"93,000",MSFT,Microsoft Corporation
+2022,"190,234",GOOGL,Alphabet Inc.
+2021,"156,500",GOOGL,Alphabet Inc.
+2020,"135,301",GOOGL,Alphabet Inc.
+2019,"118,899",GOOGL,Alphabet Inc.
+2018,"98,771",GOOGL,Alphabet Inc.
+2017,"80,110",GOOGL,Alphabet Inc.
+2016,"72,053",GOOGL,Alphabet Inc.
+2015,"61,814",GOOGL,Alphabet Inc.
+2014,"53,600",GOOGL,Alphabet Inc.
+2013,"47,756",GOOGL,Alphabet Inc.
+2012,"53,861",GOOGL,Alphabet Inc.
+2011,"32,467",GOOGL,Alphabet Inc.
+2010,"24,400",GOOGL,Alphabet Inc.
+2009,"19,835",GOOGL,Alphabet Inc.
+2022,"1,541,000",AMZN,"Amazon.com, Inc."
+2021,"1,608,000",AMZN,"Amazon.com, Inc."
+2020,"1,298,000",AMZN,"Amazon.com, Inc."
+2019,"798,000",AMZN,"Amazon.com, Inc."
+2018,"647,500",AMZN,"Amazon.com, Inc."
+2017,"566,000",AMZN,"Amazon.com, Inc."
+2016,"341,400",AMZN,"Amazon.com, Inc."
+2015,"230,800",AMZN,"Amazon.com, Inc."
+2014,"154,100",AMZN,"Amazon.com, Inc."
+2013,"117,300",AMZN,"Amazon.com, Inc."
+2012,"88,400",AMZN,"Amazon.com, Inc."
+2011,"56,200",AMZN,"Amazon.com, Inc."
+2010,"33,700",AMZN,"Amazon.com, Inc."
+2009,"24,300",AMZN,"Amazon.com, Inc."
+2022,"22,473",NVDA,NVIDIA Corporation
+2021,"18,975",NVDA,NVIDIA Corporation
+2020,"13,775",NVDA,NVIDIA Corporation
+2019,"13,277",NVDA,NVIDIA Corporation
+2018,"8,191",NVDA,NVIDIA Corporation
+2017,"10,299",NVDA,NVIDIA Corporation
+2016,"9,227",NVDA,NVIDIA Corporation
+2015,"9,228",NVDA,NVIDIA Corporation
+2014,"6,384",NVDA,NVIDIA Corporation
+2013,"7,974",NVDA,NVIDIA Corporation
+2012,"5,042",NVDA,NVIDIA Corporation
+2011,"6,029",NVDA,NVIDIA Corporation
+2010,"5,706",NVDA,NVIDIA Corporation
+2009,"3,772",NVDA,NVIDIA Corporation
+2022,"127,855",TSLA,"Tesla, Inc."
+2021,"99,290",TSLA,"Tesla, Inc."
+2020,"70,757",TSLA,"Tesla, Inc."
+2019,"48,016",TSLA,"Tesla, Inc."
+2018,"48,817",TSLA,"Tesla, Inc."
+2017,"37,543",TSLA,"Tesla, Inc."
+2016,"17,782",TSLA,"Tesla, Inc."
+2015,"13,058",TSLA,"Tesla, Inc."
+2014,"10,161",TSLA,"Tesla, Inc."
+2013,"5,859",TSLA,"Tesla, Inc."
+2012,"2,964",TSLA,"Tesla, Inc."
+2011,"1,417",TSLA,"Tesla, Inc."
+2010,899,TSLA,"Tesla, Inc."
+2009,0,TSLA,"Tesla, Inc."
+2022,"86,482",META,"Meta Platforms, Inc."
+2021,"71,970",META,"Meta Platforms, Inc."
+2020,"58,604",META,"Meta Platforms, Inc."
+2019,"44,942",META,"Meta Platforms, Inc."
+2018,"35,587",META,"Meta Platforms, Inc."
+2017,"25,105",META,"Meta Platforms, Inc."
+2016,"17,048",META,"Meta Platforms, Inc."
+2015,"12,691",META,"Meta Platforms, Inc."
+2014,"9,199",META,"Meta Platforms, Inc."
+2013,"6,337",META,"Meta Platforms, Inc."
+2012,"4,619",META,"Meta Platforms, Inc."
+2011,"3,200",META,"Meta Platforms, Inc."
+2010,0,META,"Meta Platforms, Inc."
+2009,0,META,"Meta Platforms, Inc."
+2022,"143,000",ORCL,Oracle Corporation
+2021,"132,000",ORCL,Oracle Corporation
+2020,"135,000",ORCL,Oracle Corporation
+2019,"136,000",ORCL,Oracle Corporation
+2018,"137,000",ORCL,Oracle Corporation
+2017,"138,000",ORCL,Oracle Corporation
+2016,"136,000",ORCL,Oracle Corporation
+2015,"132,000",ORCL,Oracle Corporation
+2014,"122,000",ORCL,Oracle Corporation
+2013,"120,000",ORCL,Oracle Corporation
+2012,"115,000",ORCL,Oracle Corporation
+2011,"108,000",ORCL,Oracle Corporation
+2010,"105,000",ORCL,Oracle Corporation
+2009,"86,000",ORCL,Oracle Corporation
+2022,"73,541",CRM,"Salesforce, Inc."
+2021,"56,606",CRM,"Salesforce, Inc."
+2020,"49,000",CRM,"Salesforce, Inc."
+2019,"35,000",CRM,"Salesforce, Inc."
+2018,"29,000",CRM,"Salesforce, Inc."
+2017,"25,000",CRM,"Salesforce, Inc."
+2016,"19,000",CRM,"Salesforce, Inc."
+2015,"16,000",CRM,"Salesforce, Inc."
+2014,"13,300",CRM,"Salesforce, Inc."
+2013,"9,800",CRM,"Salesforce, Inc."
+2012,"7,785",CRM,"Salesforce, Inc."
+2011,"5,306",CRM,"Salesforce, Inc."
+2010,"3,969",CRM,"Salesforce, Inc."
+2009,"3,566",CRM,"Salesforce, Inc."
+2022,"83,300",CSCO,"Cisco Systems, Inc."
+2021,"79,500",CSCO,"Cisco Systems, Inc."
+2020,"77,500",CSCO,"Cisco Systems, Inc."
+2019,"75,900",CSCO,"Cisco Systems, Inc."
+2018,"74,200",CSCO,"Cisco Systems, Inc."
+2017,"72,900",CSCO,"Cisco Systems, Inc."
+2016,"73,700",CSCO,"Cisco Systems, Inc."
+2015,"71,833",CSCO,"Cisco Systems, Inc."
+2014,"74,042",CSCO,"Cisco Systems, Inc."
+2013,"75,049",CSCO,"Cisco Systems, Inc."
+2012,"66,639",CSCO,"Cisco Systems, Inc."
+2011,"71,825",CSCO,"Cisco Systems, Inc."
+2010,"70,000",CSCO,"Cisco Systems, Inc."
+2009,"65,550",CSCO,"Cisco Systems, Inc."
+2022,"288,300",IBM,IBM Corporation
+2021,"345,000",IBM,IBM Corporation
+2020,"345,900",IBM,IBM Corporation
+2019,"383,800",IBM,IBM Corporation
+2018,"381,100",IBM,IBM Corporation
+2017,"397,800",IBM,IBM Corporation
+2016,"414,400",IBM,IBM Corporation
+2015,"411,798",IBM,IBM Corporation
+2014,"412,775",IBM,IBM Corporation
+2013,"463,785",IBM,IBM Corporation
+2012,"466,995",IBM,IBM Corporation
+2011,"466,385",IBM,IBM Corporation
+2010,"463,869",IBM,IBM Corporation
+2009,"437,776",IBM,IBM Corporation
+2022,"131,900",INTC,Intel Corporation
+2021,"121,100",INTC,Intel Corporation
+2020,"110,600",INTC,Intel Corporation
+2019,"110,800",INTC,Intel Corporation
+2018,"107,400",INTC,Intel Corporation
+2017,"102,700",INTC,Intel Corporation
+2016,"106,000",INTC,Intel Corporation
+2015,"107,300",INTC,Intel Corporation
+2014,"106,700",INTC,Intel Corporation
+2013,"107,600",INTC,Intel Corporation
+2012,"105,000",INTC,Intel Corporation
+2011,"100,100",INTC,Intel Corporation
+2010,"82,500",INTC,Intel Corporation
+2009,"79,800",INTC,Intel Corporation
+2022,"12,800",NFLX,"Netflix, Inc."
+2021,"11,300",NFLX,"Netflix, Inc."
+2020,"9,400",NFLX,"Netflix, Inc."
+2019,"8,600",NFLX,"Netflix, Inc."
+2018,"7,300",NFLX,"Netflix, Inc."
+2017,"5,500",NFLX,"Netflix, Inc."
+2016,"4,700",NFLX,"Netflix, Inc."
+2015,"3,700",NFLX,"Netflix, Inc."
+2014,"2,189",NFLX,"Netflix, Inc."
+2013,"2,022",NFLX,"Netflix, Inc."
+2012,"2,045",NFLX,"Netflix, Inc."
+2011,"2,348",NFLX,"Netflix, Inc."
+2010,"2,180",NFLX,"Netflix, Inc."
+2009,"1,883",NFLX,"Netflix, Inc."
