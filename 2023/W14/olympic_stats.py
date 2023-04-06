@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 from typing import Tuple
 from IPython.display import HTML
 from pandas.io.formats.style import Styler
@@ -13,7 +14,6 @@ CUSTOM_STYLE = [
             ("font-size", "16px"),
             ("font-weight", "bold"),
             ("font-family", "Archivo"),
-            ("white-space", "nowrap"),
         ],
     },
     # Color bars for different medals
@@ -126,6 +126,7 @@ def merge_data(df: pd.DataFrame, df_pop: pd.DataFrame) -> pd.DataFrame:
     df_geo.sort_values(by="winter_gold", ascending=False, inplace=True)
     df_geo = df_geo.head(10).copy()
     df_geo.reset_index(drop=True, inplace=True)
+    df_geo["2022 Population"] = df_geo["2022 Population"].astype(int)
     return df_geo
 
 
@@ -155,7 +156,11 @@ def add_html(df: pd.DataFrame) -> pd.DataFrame:
         ),
         axis=1,
     )
-    df = df[["country", "flag", "medals", "winter_total"]].rename(
+    df["Population<br>size"] = df.apply(
+        lambda x: f'<img style="max-height:50px; max-width:50px;" width={5+45*x["2022 Population"]/338289857}px src="images/Circle.svg"/>',
+        axis=1,
+    )
+    df = df[["country", "flag", "medals", "winter_total", "Population<br>size"]].rename(
         columns={
             "country": "",
             "flag": " ",
@@ -191,7 +196,7 @@ def style_table(df: pd.DataFrame) -> pd.DataFrame:
         .set_table_styles(CUSTOM_STYLE)
         .set_properties(
             subset=["Total<br>amount"],
-            **{"text-align": "center"},
+            **{"text-align": "center", "padding-right": "20px"},
         )
         .set_properties(
             subset=[""],
@@ -204,6 +209,20 @@ def style_table(df: pd.DataFrame) -> pd.DataFrame:
             **{
                 "padding-right": "20px",
             },
+        )
+        .set_properties(
+            subset=["Population<br>size"],
+            **{
+                "text-align": "center",
+            },
+        )
+        .apply_index(
+            lambda x: np.where(
+                x == "Total<br>amount",
+                "padding-right: 20px",
+                "font-family: Archivo",
+            ),
+            axis=1,
         )
         .set_caption(  # This would probably be better if added to the template
             (
