@@ -23,9 +23,15 @@ I started 7 days late, so there'll be some catching up 😆
 | Day | Type | Description | Source |
 |-----|------|-------------|--------|
 | [1](./30DayChartChallenge/Day01-part-to-whole) | Part-to-whole | Share of OPEC oil reserves | [https://asb.opec.org](https://asb.opec.org) |
+| [2](./30DayChartChallenge/Day02-waffle) | Waffle | Monthly Weather Forecast | AccuWeather |
 
 
 ### [Share of OPEC oil reserves | Part-to-whole](./30DayChartChallenge/Day01-part-to-whole)
 Confirmed oil reserves for OPEC countries.
 
 <a href="./30DayChartChallenge/Day01-part-to-whole/result.png"><img src="./30DayChartChallenge/Day01-part-to-whole/result.png" width="75%"/></a>
+
+### [Monthly Weather Forecast | Waffle](./30DayChartChallenge/Day02-waffle)
+The 30-day forecast of my hometown in April 2023
+
+<a href="./30DayChartChallenge/Day02-waffle/result.png"><img src="./30DayChartChallenge/Day02-waffle/result.png" width="75%"/></a>
