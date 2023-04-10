@@ -5,6 +5,7 @@
 | [1](./Day01-part-to-whole) | Part-to-whole | Share of OPEC oil reserves | [https://asb.opec.org](https://asb.opec.org) |
 | [2](./Day02-waffle) | Waffle | Monthly Weather Forecast | AccuWeather |
 | [3](./Day03-fauna) | Fauna | Annual rate of forest expansion and deforestation, 1990-2020 | [https://www.fao.org](https://www.fao.org) |
+| [4](./Day04-historical) | Historical | Historic decline in number of flights | IATA |
 
 # Visualizations
 ### [Share of OPEC oil reserves | Part-to-whole](./Day01-part-to-whole)
@@ -21,3 +22,8 @@ The 30-day forecast of my hometown in April 2023
 Deforestation continues, but at a slower rate
 
 <a href="./Day03-fauna/result.png"><img src="./Day03-fauna/result.png" width="75%"/></a>
+
+### [Historic decline in number of flights](./Day04-historical)
+COVID-19 slowed down the growing number of airline flights
+
+<a href="./Day04-historical/result.png"><img src="./Day04-historical/result.png" width="75%"/></a>

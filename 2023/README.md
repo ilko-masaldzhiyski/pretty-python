@@ -25,6 +25,7 @@ I started 7 days late, so there'll be some catching up 😆
 | [1](./30DayChartChallenge/Day01-part-to-whole) | Part-to-whole | Share of OPEC oil reserves | [https://asb.opec.org](https://asb.opec.org) |
 | [2](./30DayChartChallenge/Day02-waffle) | Waffle | Monthly Weather Forecast | AccuWeather |
 | [3](./30DayChartChallenge/Day03-fauna) | Fauna | Annual rate of forest expansion and deforestation, 1990-2020 | [https://www.fao.org](https://www.fao.org) |
+| [4](./30DayChartChallenge/Day04-historical) | Historical | Historic decline in number of flights | IATA |
 
 ### [Share of OPEC oil reserves | Part-to-whole](./30DayChartChallenge/Day01-part-to-whole)
 Confirmed oil reserves for OPEC countries.
@@ -40,3 +41,8 @@ The 30-day forecast of my hometown in April 2023
 Deforestation continues, but at a slower rate
 
 <a href="./30DayChartChallenge/Day03-fauna/result.png"><img src="./30DayChartChallenge/Day03-fauna/result.png" width="75%"/></a>
+
+### [Historic decline in number of flights](./30DayChartChallenge/Day04-historical)
+COVID-19 slowed down the growing number of airline flights
+
+<a href="./30DayChartChallenge/Day04-historical/result.png"><img src="./30DayChartChallenge/Day04-historical/result.png" width="75%"/></a>
