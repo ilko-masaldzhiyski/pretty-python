@@ -26,6 +26,7 @@ I started 7 days late, so there'll be some catching up 😆
 | [2](./30DayChartChallenge/Day02-waffle) | Waffle | Monthly Weather Forecast | AccuWeather |
 | [3](./30DayChartChallenge/Day03-fauna) | Fauna | Annual rate of forest expansion and deforestation, 1990-2020 | [https://www.fao.org](https://www.fao.org) |
 | [4](./30DayChartChallenge/Day04-historical) | Historical | Historic decline in number of flights | IATA |
+| [5](./30DayChartChallenge/Day05-slopes) | Slopes | Development of most-expensive football transfers | [Wikipedia](https://en.wikipedia.org/wiki/List_of_most_expensive_association_football_transfers) |
 
 ### [Share of OPEC oil reserves | Part-to-whole](./30DayChartChallenge/Day01-part-to-whole)
 Confirmed oil reserves for OPEC countries.
@@ -46,3 +47,8 @@ Deforestation continues, but at a slower rate
 COVID-19 slowed down the growing number of airline flights
 
 <a href="./30DayChartChallenge/Day04-historical/result.png"><img src="./30DayChartChallenge/Day04-historical/result.png" width="75%"/></a>
+
+### [Breaking football transfer records](./30DayChartChallenge/Day05-slopes)
+Visualizing the development of most-expensive football transfers
+
+<a href="./30DayChartChallenge/Day05-slopes/result.png"><img src="./30DayChartChallenge/Day05-slopes/result.png" width="75%"/></a>

@@ -17,4 +17,7 @@ A repo containing, *hopefully*, good looking visualizations built on top of pyth
     <td><a href="./2023/30DayChartChallenge/Day03-fauna">Annual rate of forest expansion and deforestation</a><a href="./2023/30DayChartChallenge/Day03-fauna/result.png"><img src="./2023/30DayChartChallenge/Day03-fauna/result.png"/></a></td>
     <td><a href="./2023/30DayChartChallenge/Day04-historical">Historic decline in number of flights</a><a href="./2023/30DayChartChallenge/Day04-historical/result.png"><img src="./2023/30DayChartChallenge/Day04-historical/result.png"/></a></td>
   </tr>
+  <tr valign="top">
+    <td><a href="./2023/30DayChartChallenge/Day05-slopes">Breaking football transfer records</a><a href="./2023/30DayChartChallenge/Day05-slopes/result.png"><img src="./2023/30DayChartChallenge/Day05-slopes/result.png"/></a></td>
+  </tr>
 </table>
